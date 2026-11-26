@@ -1,2 +1,2 @@
-# first-repo
+# Tarkvaraarendus AI ajastul
 esimene repo, tarkvaraarendus
